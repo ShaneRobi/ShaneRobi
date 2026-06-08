@@ -1,11 +1,17 @@
+<img width="480" height="252" alt="Hi, Im Shane  I build things, break things, fix things, and occasionally remember to document them  Currently somewhere between Technnical Product Manager, Software Engineer, Product Engineer and " src="https://github.com/user-attachments/assets/332c5e5d-2d9f-4ee2-a994-f8e6881014cc" /> <br>
 
+I build things, break things, fix things, and occasionally remember to document them.<br>Currently somewhere between Technnical Product Manager, Software Engineer, and Part-Time Founder.<br>
 
-## Hey, I'm Shane 👋🤓
-I build things, break things, fix things, and occasionally remember to document them.<br>Currently somewhere between Technnical Product Manager, Software Engineer, Product Engineer and Part-Time Founder.<br> I too wanna be a cracked techbro<br>
-
-### 🌎📚 Fun facts:
+###  🌎📚 Fun facts:
 I am a native **_English_** speaker with a strong listening comprehension of **_French_**, **_Mandarin Chinese_**, **_Urdu/Hindi_**, **_Malay_**, and **_Bengali_** though my speaking skills are still developing.<br>
 <img width="170" height="250" alt="vegeta in library" src="https://github.com/user-attachments/assets/db774f6d-4cd9-43eb-b6a8-33078f30d76b" />
+<br>
+This might seem like fun fact to you but as a natrually fun guy, it's just facts to me <br>
+<img width="213" height="141" alt="13-years-ago-today-radio-rebel-premiered-did-you-like-the-v0-gggiy1t5ipje1" src="https://github.com/user-attachments/assets/824712c5-214c-4158-b7ab-8932423977eb" />
+
+
+
+
 
 ### 🤳 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/PartTime.Founder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shane-robi-hemed-3ba610287/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shanehemed) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shanerobi) 

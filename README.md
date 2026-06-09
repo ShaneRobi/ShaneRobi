@@ -6,11 +6,6 @@ I build things, break things, fix things, and occasionally remember to document 
 I am a native **_English_** speaker with a strong listening comprehension of **_French_**, **_Mandarin Chinese_**, **_Urdu/Hindi_**, **_Malay_**, and **_Bengali_** though my speaking skills are still developing.<br>
 <img width="170" height="250" alt="vegeta in library" src="https://github.com/user-attachments/assets/db774f6d-4cd9-43eb-b6a8-33078f30d76b" />
 <br>
-This might seem like fun fact to you but as a natrually fun guy, it's just facts to me <br>
-<img width="213" height="141" alt="13-years-ago-today-radio-rebel-premiered-did-you-like-the-v0-gggiy1t5ipje1" src="https://github.com/user-attachments/assets/824712c5-214c-4158-b7ab-8932423977eb" />
-
-
-
 
 
 ### 🤳 Socials:

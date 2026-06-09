@@ -1,4 +1,4 @@
-<img width="480" height="252" alt="Hi, Im Shane  I build things, break things, fix things, and occasionally remember to document them  Currently somewhere between Technnical Product Manager, Software Engineer, Product Engineer and " src="https://github.com/user-attachments/assets/332c5e5d-2d9f-4ee2-a994-f8e6881014cc" /> <br>
+<img width="400" height="200" alt="Hi, Im Shane  I build things, break things, fix things, and occasionally remember to document them  Currently somewhere between Technnical Product Manager, Software Engineer, Product Engineer and " src="https://github.com/user-attachments/assets/332c5e5d-2d9f-4ee2-a994-f8e6881014cc" /> <br>
 
 I build things, break things, fix things, and occasionally remember to document them.<br>Currently somewhere between Technnical Product Manager, Software Engineer, and Part-Time Founder.<br>
 

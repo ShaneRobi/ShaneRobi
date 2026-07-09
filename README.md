@@ -15,6 +15,8 @@ I am a native **_English_** speaker with a strong listening comprehension of **_
 
 <br>
 
+<div align="center"> 
+  
 ### 🤳 Socials:
 
 <a href="https://instagram.com/billionaire.techbro">
@@ -30,6 +32,7 @@ I am a native **_English_** speaker with a strong listening comprehension of **_
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
 </a>
 
+  
 ### ☝️🤓 Tech Stack:
 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />

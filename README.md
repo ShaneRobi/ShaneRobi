@@ -1,5 +1,3 @@
-<div align="center">
-
 <img width="400" height="200" alt="Hi, Im Shane  I build things, break things, fix things, and occasionally remember to document them  Currently somewhere between Technnical Product Manager, Software Engineer, Product Engineer and " src="https://github.com/user-attachments/assets/332c5e5d-2d9f-4ee2-a994-f8e6881014cc" />
 
 <br>
@@ -60,8 +58,6 @@ I am a native **_English_** speaker with a strong listening comprehension of **_
 ## 📊 GitHub Stats:
 
 <img src="https://github-readme-stats.shion.dev/api?username=shanerobi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
-
-
 <img src="https://streak-stats.demolab.com/?user=shanerobi&theme=blue-green&hide_border=false" />
 
 <br>
